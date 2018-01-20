@@ -1,3 +1,3 @@
 # OSLAB
-oslab stuff
-hi guys im here to edit something.
+operating system files include 
+system calls, socket programming, scheduling algorithms
